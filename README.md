@@ -1,10 +1,3 @@
-# Square Array
-
-## Learning Goals
-
-- Apply `while` to iterate over an array
-
-## Introduction
 
 In this lab we will be building a method, `square_array`, that
 [squares](https://en.wikipedia.org/wiki/Square_(algebra)) each element in an
