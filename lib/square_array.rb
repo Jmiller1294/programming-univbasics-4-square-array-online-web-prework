@@ -10,4 +10,4 @@ def square_array(array)
   p new_array
 end
 
-square_array
+square_array()
